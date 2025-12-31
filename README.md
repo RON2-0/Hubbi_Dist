@@ -84,7 +84,11 @@ Diseñada para adaptarse a distintos tipos de negocio, como:
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 Desarrollo
 
 Desarrollado por **RON2-0**  
 Todos los derechos reservados.
+
+</div>
