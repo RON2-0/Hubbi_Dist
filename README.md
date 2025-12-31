@@ -1,6 +1,12 @@
+<div align="center">
+
+<img width="100" height="100" alt="Hubbi_icon" src="https://github.com/user-attachments/assets/45029700-0d1d-46c3-aad4-84c93235fdac" />
+
 # Hubbi — Distribución Oficial
 
 Bienvenido al **repositorio oficial de distribución de Hubbi**, la plataforma **Modular y Multipropósito** para la empresa y uso particular moderno.
+
+</div>
 
 > **Nota:**  
 > En este repositorio solo se publican **binarios compilados**, instaladores y archivos de actualización automática. El código fuente de Hubbi es de propiedad exclusiva de RON2-0.
